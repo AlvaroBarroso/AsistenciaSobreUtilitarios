@@ -1,2 +1,0 @@
-# AsistenciaSobreUtilitarios
-ss
